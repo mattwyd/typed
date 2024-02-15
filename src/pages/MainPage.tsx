@@ -1,9 +1,13 @@
-import { useKeyPress } from "react-use";
 import { Typography } from "@mui/material";
+
+import NavBar from '../components/NavBar';
+
+
 function MainPage(){
     return (
     <>
-        <Typography>Main</Typography>
+        <NavBar/>
+        <Typography>i bet 99999 dolla hen doesnt commit today</Typography>
     </>
     )
 }
