@@ -7,7 +7,7 @@ function MainPage(){
     return (
     <>
         <NavBar/>
-        <Typography>i bet 99999 dolla hen doesnt commit today</Typography>
+        <Typography>day 3 of henry not even having ran the dev build </Typography>
     </>
     )
 }
