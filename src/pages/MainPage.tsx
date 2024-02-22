@@ -7,7 +7,7 @@ function MainPage(){
     return (
     <>
         <NavBar/>
-        <Typography>day 3 of henry not even having ran the dev build </Typography>
+        <Typography>day 999 of henry not even having ran the dev build </Typography>
     </>
     )
 }
